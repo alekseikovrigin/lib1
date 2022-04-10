@@ -1,0 +1,14 @@
+{
+    "name": "alekseikovrigin/templib",
+    "autoload": {
+        "psr-4": {
+            "classmap": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require_dev": {
+        "phpunit/phpunit": "4.8.9"
+    }
+}
