@@ -2,7 +2,7 @@
     "name": "alekseikovrigin/lib",
     "autoload": {
         "psr-4": {
-            "classmap": "src/"
+            "classmap\\": "src/"
         }
     },
     "authors": [
@@ -12,7 +12,8 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.4.0",
+        "inetris/lib": "dev-master"
     },
     "require_dev": {
         "phpunit/phpunit": "4.8.9"
