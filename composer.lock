@@ -308,12 +308,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/alekseikovrigin/lib.git",
-                "reference": "aed1c028d4877e232bf00099e9ab3d4e9e0a9d6a"
+                "reference": "35368bb6555a379ac223041bb6a73bebe3a4d65f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/alekseikovrigin/lib/zipball/aed1c028d4877e232bf00099e9ab3d4e9e0a9d6a",
-                "reference": "aed1c028d4877e232bf00099e9ab3d4e9e0a9d6a",
+                "url": "https://api.github.com/repos/alekseikovrigin/lib/zipball/35368bb6555a379ac223041bb6a73bebe3a4d65f",
+                "reference": "35368bb6555a379ac223041bb6a73bebe3a4d65f",
                 "shasum": ""
             },
             "require": {
@@ -341,7 +341,7 @@
                 "issues": "https://github.com/alekseikovrigin/lib/issues",
                 "source": "https://github.com/alekseikovrigin/lib/tree/master"
             },
-            "time": "2022-05-01T12:35:23+00:00"
+            "time": "2022-05-01T17:32:23+00:00"
         },
         {
             "name": "psr/http-client",
